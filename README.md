@@ -19,3 +19,9 @@ A simple Task Manager application to help users:
 ## Goals
 - Practice Git workflow (branches, PRs, conflicts)
 - Collaborate using GitHub
+
+## Project Description  this conflict (collobration between two branches )
+This is a task manager app used to organize daily tasks.
+
+
+
