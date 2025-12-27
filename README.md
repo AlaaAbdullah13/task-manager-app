@@ -1,4 +1,4 @@
-[200~A simple Task Manager application to help users:
+## simple Task Manager application to help users:
 - Create tasks
 - Update task status
 - Delete tasks
