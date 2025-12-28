@@ -24,4 +24,5 @@ A simple Task Manager application to help users:
 This is a task manager app used to organize daily tasks.
 
 
-
+##  This app helps users manage daily tasks efficiently.
+## Created by Main Branch.
