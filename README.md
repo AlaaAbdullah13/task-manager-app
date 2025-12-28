@@ -34,6 +34,7 @@ This is a simple task manager application.
 
 
 ## This project allows users to create, update, and delete tasks.
+<<<<<<< HEAD
 ## Created by Feature Branch.
  (update from featured)
 :wq
@@ -42,3 +43,6 @@ This is a simple task manager application.
 ## last update from main 
 
 
+=======
+## last update from feature
+>>>>>>> 1214f65 (last update from feature)
